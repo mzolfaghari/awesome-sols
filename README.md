@@ -7,9 +7,9 @@
 <!-- MarkdownTOC depth=4 -->
 
 - [Customizations and Hacks](#customizations-and-hacks)
-- [Customizations and Hacks](#pytorch)
-- [Customizations and Hacks](#python)
-- [Customizations and Hacks](#chrome-extensions)
+- [Pytorch](#pytorch)
+- [Python](#python)
+- [Chrome-extensions](#chrome-extensions)
 
 
 <!-- /MarkdownTOC -->
@@ -24,8 +24,8 @@
 
 
 ## Python
-1-Python-GUI
-2-Python-web
+1. Python-GUI
+2. Python-web
 
 
 ## Chrome-extensions
