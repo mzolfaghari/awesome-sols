@@ -6,7 +6,7 @@
 
 <!-- MarkdownTOC depth=4 -->
 
-- [Customizations and Hacks](#Customizations and Hacks)
+- [Customizations and Hacks](#customizations-and-hacks)
 
 
 <!-- /MarkdownTOC -->
