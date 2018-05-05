@@ -9,6 +9,7 @@ https://github.com/hirschmann/nbfc
 
 
 #### Problem: systemd-resolve high cpu usage: 
+check by 'top' or 'atop' to find out which application wastes your CPU! If it's 'systemd-resolve' then the following solutions might help:
 
 ##### Solution 1:
  add `DNSStubListener=no` in `/etc/systemd/resolved.conf` and then `sudo service systemd-resolved restart`.
