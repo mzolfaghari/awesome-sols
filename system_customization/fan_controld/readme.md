@@ -1,13 +1,14 @@
 
 ## Noisy Fan!
 
-#### Controle the speed of fan: 
+#### Problem: Controle the speed of fan: 
 Using the following package (works on both linux and windows):
 
 https://github.com/hirschmann/nbfc
 
 
-#### systemd-resolve high cpu usage: 
+
+#### Problem: systemd-resolve high cpu usage: 
 
 ##### Solution 1:
  add `DNSStubListener=no` in `/etc/systemd/resolved.conf` and then `sudo service systemd-resolved restart`.
