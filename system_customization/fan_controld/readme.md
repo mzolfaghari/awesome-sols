@@ -9,10 +9,10 @@ https://github.com/hirschmann/nbfc
 
 #### systemd-resolve high cpu usage: 
 
-#####Solution 1:
+##### Solution 1:
  add `DNSStubListener=no` in `/etc/systemd/resolved.conf` and then `sudo service systemd-resolved restart`.
 
-#####Solution 2:
+##### Solution 2:
 Add the line `DNSMASQ_EXCEPT=lo` to `/etc/default/dnsmasq`
 
 `sudoedit /etc/default/dnsmasq`
